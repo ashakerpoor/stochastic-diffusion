@@ -1,6 +1,6 @@
 /**
  *
- * These are the functions for the innner loops of the calculation.  Once the algorithms
+ * These are the functions for the inner loops of the calculation.  Once the algorithms
  * are settled, they should probably be hand-converted to c for better performance.
  *
  * The main class is the StepGenerator that generates the number of particles that

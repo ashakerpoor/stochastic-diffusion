@@ -6,8 +6,8 @@
  *
  * <p>
  *
- * A good reference for comparison of numerical methods for single mixed pools (dispite the
- * slightly differnt physical conditions) is:
+ * A good reference for comparison of numerical methods for single mixed pools (despite the
+ * slightly different physical conditions) is:
  *
  * <pre>
  * Integration of Nuclear Reaction Networks for Stellar Hydrodynamics
